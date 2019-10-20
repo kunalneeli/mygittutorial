@@ -2,5 +2,9 @@ INTO MASTER
 SECOND CHANGE
 
 
+
 IN 1st branch
 IN 1st branch second changes
+
+IN 2nd branch
+
